@@ -1,0 +1,13 @@
+{
+  "name": "Function Lesson",
+  "description": "Show how web browsing is related to functions in math",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+}
